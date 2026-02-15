@@ -2,7 +2,7 @@
 A Verilog implementation of an 8-bit ALU capable of performing arithmetic and logical operations. This project was simulated using Icarus Verilog and visualized with GTKWave.
 ## Features
 8-bit Data Width: Handles two 8-bit inputs (A and B).
-## Operations:
+## Operations
 Arithmetic: Addition, Subtraction.\
 Logical: AND, OR, XOR, NOT.\
 Shifting: Logical left shift and logical right shift.\
