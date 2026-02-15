@@ -13,10 +13,10 @@ Simulator: Icarus Verilog (iverilog)\
 Waveform Viewer: GTKWave\
 Editor: VS Code with Verilog extensions.
 ## Project Structure
-├── alu.v           # Main ALU design module\
-├── alu_tb.v        # Testbench for verification\
-├── alu.vcd         # Waveform file (generated after simulation)\
-└── report.pdf      # Detailed design and analysis report
+├── alu.v                     # Main ALU design module\
+├── alu_tb.v                  # Testbench for verification\
+├── alu.vcd                   # Waveform file (generated after simulation)\
+└── 8-bit ALU report.docx     # Detailed design and analysis report
 ## How to Run
 To compile and simulate the project, run the following commands in your terminal:\
 ### Compile the code:
